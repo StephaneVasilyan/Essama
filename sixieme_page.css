@@ -1,0 +1,14 @@
+body {
+    background-color: #74d5ac;
+    font-family: Arial, Helvetica, sans-serif;
+        } 
+
+.alignLeft{
+    float: left;
+    margin: 15px;
+}
+
+.alignRight{
+    float: right;
+    margin: 15px;
+}
